@@ -6,7 +6,7 @@ A machine learning project predicting passenger survival on the Titanic, built f
 
 ## Overview
 
-This project walks through a full classification workflow — from raw data to a tuned, submission-ready model — predicting whether a passenger survived the Titanic disaster based on features like class, sex, age, and fare.
+This project walks through a full classification workflow predicting whether a passenger survived the Titanic disaster based on features like class, sex, age, and fare.
 
 ## Dataset
 
